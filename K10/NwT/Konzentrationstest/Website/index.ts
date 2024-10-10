@@ -29,5 +29,11 @@ for (let row = 0; row < sizes.rows; row++) {
 				dotWrapper.appendChild(randomCharacterElement);
 			}
 		}
+
+		// Between the 2 rows (top and bottom) add a random character
+		const randomCharacterElement = document.createElement("div");
+		randomCharacterElement.classList.add("random-character");
+		randomCharacterElement.textContent = randomCharacter();
+		columnElement.insertBefore(randomCharacterElement, columnElement.children[1]);
 	}
 }
