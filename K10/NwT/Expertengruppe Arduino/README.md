@@ -68,10 +68,11 @@ void setup()
 
 ## Aufgabe 2.1
 
+- Binomialkoeffizienten
 - Kumulierte wahrscheinlichkeit
 - Bedingte wahrscheinlichkeit
 - Stochastische (un-)abhänigkeit
 - Bernoulli-Kette
 - Galton Board
 - Standardabweichung (sigma)
-- Erwartungswert (müh)
+- Erwartungswert (binomialverteilung / müh)
