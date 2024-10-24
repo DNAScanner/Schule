@@ -22,7 +22,7 @@ void setup()
       randomSeed(analogRead(0));
 
       int numberToGuess = random(1, 7);
-      Serial.println("Number to guess: " + String(numberToGuess));
+      Serial.println("Number to guess: " + String(numberToGuess));sudo apt install qjackctl
 
       digitalWrite(LED, numberToGuess == 6 ? HIGH : LOW);
 }
@@ -76,3 +76,6 @@ void setup()
 - Galton Board
 - Standardabweichung (sigma)
 - Erwartungswert (binomialverteilung / müh)
+
+
+NwT Klassenarbeit 5.12
