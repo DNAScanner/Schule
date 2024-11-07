@@ -30,12 +30,18 @@
 
 # EG - EKG
 
-### Beschriftung Herz
+| Aufgabe                                        | Lösung                                                                                               |
+| ---------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| Was ist Adrenalin und welche Bedeutung hat es? | Adrenalin ist ein Stresshormon, welches bei erhöhtem Stress, Aufregung und Angst aufgeschüttet wird. |
 
-| Aufgabe                                        | Lösung |
-| ---------------------------------------------- | ------ |
-| Beschreibe den Weg des Blutes durch den Körper | 
-| Was ist Adrenalin und welche Bedeutung hat es? |
+### EKG Ablaufschema
+
+```mermaid
+graph TD
+      A[Sauerstoffarmes Blut] -- Vene --> B[rechter Vorhof] -- Segelklappe --> C[rechte Hauptkammer] -- Gepumpt in --> D[Aterie] -- gepumpt in --> E[Lungenflügel] -- Gepumpt in --> F[Linken Vorhof] -- gepumpt in --> G[Linke Herzkammer] -- gepumpt in --> H["Muskel (Verbraucher)"]
+```
+
+### Beschriftung Herz
 
 ![a](./Herzbeschriftung.png)
 
@@ -45,3 +51,10 @@
 | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Fasse die verschiedenen Aufgaben der Haut zusammen                                                 | **Lederhaut**: Enthalten **Rezeptoren** für **Drucksinn**, **Tastsinn**, **Temperatursinn** und **Schmerzsinn** <br> **Regulierung** der **Körpertemperatur** durch Ausstoß von **Schweiß** (=> Wasserkühlung) <br>                                         |
 | Beschreibe die Zusammensetzung des Schweißes, sowie seinen Einfluss auf die Leitfähigkeit der Haut | 99% **Wasser** <br> 1% **Salze** (hauptsächlich **Natriumchlorid** $NaCL$ und **Harnstoff** $CH_4N_2O$) <br> **Schweiß** zeigt zudem eine **schwache Saure** Reaktion <br> Elektrische **Leitfähigkeit steigt** mit **Schweißmenge** aufgrund der **Salze** |
+
+# EG - Arduino, Reaktion und Konzentration
+
+| Aufgabe                                                     | Lösung                                                                                                                                        |
+| ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Definiere, was man unter Konzentration versteht             | Konzentration ist die **Fähigkeit**, die **geistige Aufmerksamkeit** auf einen Punkt zu **richten** und diese **aufrechtzuerhalten**          |
+| Erkläre, was man unter einem Reiz-Reaktions-Schema versteht | Ein Reiz-Reaktions-Schema ist eine **einfache Darstellung** (**chronologisch**), die den Weg von einem **Reiz bis** zur **Reaktion** aufzeigt |
