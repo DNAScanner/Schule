@@ -11,11 +11,68 @@
 }
 
 body {
-	background-color: #000000;
+	background-color: #191919;
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	flex-direction: column;
+	gap: 20px;
 	height: 100vh;
+}
+
+@keyframes onGithubHover {
+	0% {
+		transform: scale(1);
+	}
+
+	25% {
+		transform: scale(0.9);
+	}
+
+	50% {
+		transform: scale(1.1);
+	}
+
+	75% {
+		transform: scale(0.9);
+	}
+
+	100% {
+		transform: scale(1);
+	}
+}
+
+#github {
+	position: fixed;
+	$spacing: 10px;
+	bottom: $spacing;
+	right: $spacing;
+	background-color: #090909;
+	padding: 10px;
+	border-radius: 25%;
+
+	cursor: pointer;
+
+	& > img {
+		width: 60px;
+	}
+
+	&:hover {
+		& > img {
+			animation: onGithubHover 0.7s ease-in-out;
+		}
+	}
+}
+
+#text {
+	font-size: 50px;
+	font-weight: 500;
+	opacity: 1;
+	transition: 0.1s all ease-in-out;
+
+	&.hidden {
+		opacity: 0;
+	}
 }
 
 #row-wrapper {
@@ -28,23 +85,34 @@ body {
 		flex-direction: row;
 
 		& > .column {
-			width: 25px;
+			width: 30px;
 			border: 1px solid #ffffff;
+			$padding: 5px;
+			padding-top: $padding;
+			padding-bottom: $padding;
 
 			display: flex;
 			justify-content: center;
 			align-items: center;
 			flex-direction: column;
-                  gap: 5px;
+			gap: 5px;
+
+			&.highlight {
+				background-color: #525252;
+			}
+
+			&.marked {
+				background-color: #327512;
+			}
 
 			& > .dot-bottom,
 			& > .dot-top {
 				display: flex;
 				flex-direction: row;
-                        height: 10px;
-                        gap: 5px;
-                        justify-content: center;
-                        align-items: center;
+				height: 10px;
+				gap: 5px;
+				justify-content: center;
+				align-items: center;
 
 				& > .dot {
 					$size: 5px;
@@ -57,15 +125,9 @@ body {
 					align-items: center;
 					font-size: 12px;
 					font-weight: 500;
-					color: #000000;
 					cursor: pointer;
 					border-radius: 50%;
 					transition: 0.3s;
-
-					&:hover {
-						background-color: #000000;
-						color: #ffffff;
-					}
 				}
 			}
 		}
