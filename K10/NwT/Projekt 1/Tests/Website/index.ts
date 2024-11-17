@@ -94,7 +94,7 @@ showText("Wenn du bereit bist, drücke die Leertaste oder Enter");
 await waitForKey(["Space", "Enter"], () => false);
 showText("");
 
-const TIME_PER_ROW = 10000;
+const TIME_PER_ROW = 20000;
 
 for (let row = 0; row < sizes.rows; row++) {
 	const startTime = Date.now();
@@ -143,4 +143,4 @@ for (const row of document.querySelectorAll(".row"))
 		if (dots === 2 && letter === "d") achievable++;
 	}
 
-showText(`Dein Score: ${score/achievable * 100} von 100`);
+showText(`Dein Score: ${Math.floor(score/achievable * 100)} von 100`);
