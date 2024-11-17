@@ -141,6 +141,8 @@ for (const row of document.querySelectorAll(".row"))
 
 		if (marked && dots === 2 && letter === "d") score++;
 		if (dots === 2 && letter === "d") achievable++;
+
+		if (marked && (dots !== 2 || letter !== "d")) score--;
 	}
 
-showText(`Dein Score: ${Math.floor(score/achievable * 100)} von 100`);
+showText(`Dein Score: ${Math.floor(Math.max(0, score)/achievable * 100)} von 100`);

@@ -77,7 +77,7 @@ const waitForKey = async (allowedKeys, exitCondition) => {
 showText("Wenn du bereit bist, drücke die Leertaste oder Enter");
 await waitForKey(["Space", "Enter"], () => false);
 showText("");
-const TIME_PER_ROW = 10000;
+const TIME_PER_ROW = 20000;
 for (let row = 0; row < sizes.rows; row++) {
     const startTime = Date.now();
     for (let column = 0; column < sizes.columns; column++) {
@@ -114,7 +114,9 @@ for (const row of document.querySelectorAll(".row"))
             score++;
         if (dots === 2 && letter === "d")
             achievable++;
+        if (marked && (dots !== 2 || letter !== "d"))
+            score--;
     }
-showText(`Dein Score: ${score / achievable * 100} von 100`);
+showText(`Dein Score: ${Math.floor(Math.max(0, score) / achievable * 100)} von 100`);
 export {};
 //# sourceMappingURL=index.js.map
