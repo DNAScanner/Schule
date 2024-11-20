@@ -9,11 +9,12 @@ graph LR
       A((Subjekt)) --> B["Blutdruck<br>Puls (1)"] --> C["Atemfrequenz (1)"] --> D["Konzentration <br> Reaktion (1)"] --> E["Blutdruck<br>Puls (2)"] --> F["Atemfrequenz (2)"] --> G["Konzentration <br> Reaktion (2)"]
 ```
 
-| Aktivität                   |     Zeit | Anzahl <br> Gleichzeitig | Anzahl <br> Durchläufe |
-| --------------------------- | -------: | ------------------------ | ---------------------- |
-| Atemfrequenz                | **120s** | 1                        | 2                      |
-| Blutdruck <br> Puls         | **120s** | 1                        | 2                      |
-| Konzentration <br> Reaktion | **360s** | 2                        | 2                      |
+| Aktivität           |     Zeit | Anzahl <br> Gleichzeitig | Anzahl <br> Durchläufe |
+| ------------------- | -------: | ------------------------ | ---------------------- |
+| Atemfrequenz        | **120s** | 1                        | 2                      |
+| Blutdruck <br> Puls | **120s** | 1                        | 2                      |
+| Konzentration       | **240s** | 2                        | 2                      |
+| Reaktion            | **120s** | 2                        | 2                      |
 
 ## Beispiel: Ablauf einer Person
 
