@@ -13,7 +13,7 @@
 
 1. Schüler*innen den Verlauf der Testung **erklären**
 0. Finger-Tapping-Test **anzeigen**
-0. Beide Schüler*innen führen **gleichzeitig** den Test durch
+0. Schüler*in **führt** den Test durch
 0. Nach Durchführung die **Ergebnisse notieren**
 0. Nächsten Durchlauf gleich durchführen, insgesamt **5 mal**
 

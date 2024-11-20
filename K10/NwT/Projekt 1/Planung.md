@@ -14,16 +14,16 @@ graph LR
 | Atemfrequenz        | **120s** | 1                        | 2                      |
 | Blutdruck <br> Puls | **120s** | 1                        | 2                      |
 | Konzentration       | **240s** | 2                        | 2                      |
-| Reaktion            | **120s** | 1                        | 2                      |
+| Reaktion            |  **90s** | 1                        | 2                      |
 
 ## Beispiel: Ablauf einer Person
 
 - 2x **120s** Atemfrequenz
 - 2x **120s** Blutdruck und Puls
 - 2x **240s** Konzentration
-- 2x **120s** Reaktion
+- 2x **90s** Reaktion
 
-Gesamt: **1200s** = **20min**
+Gesamt: **1140s** = **19 Minuten**
 
 # Material
 
