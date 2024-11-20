@@ -14,7 +14,7 @@ graph LR
 | Atemfrequenz        | **120s** | 1                        | 2                      |
 | Blutdruck <br> Puls | **120s** | 1                        | 2                      |
 | Konzentration       | **240s** | 2                        | 2                      |
-| Reaktion            | **120s** | 2                        | 2                      |
+| Reaktion            | **120s** | 1                        | 2                      |
 
 ## Beispiel: Ablauf einer Person
 
