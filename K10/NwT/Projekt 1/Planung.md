@@ -20,9 +20,10 @@ graph LR
 
 - 2x **120s** Atemfrequenz
 - 2x **120s** Blutdruck und Puls
-- 2x **180s** Konzentration und Reaktion
+- 2x **240s** Konzentration
+- 2x **120s** Reaktion
 
-Gesamt: **840s** / **14 Minuten**
+Gesamt: **1200s** = **20min**
 
 # Material
 
