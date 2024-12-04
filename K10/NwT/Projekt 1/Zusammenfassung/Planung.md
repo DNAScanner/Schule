@@ -29,11 +29,12 @@ Gesamt: **1140s** = **19 Minuten**
 
 ## Atemfrequenz
 
-| Material   | Anzahl |
-| ---------- | -----: |
-| Lab Pro    |      1 |
-| Spirometer |      1 |
-| Laptop     |      2 |
+| Material          | Anzahl |
+| ----------------- | -----: |
+| Lab Pro           |      1 |
+| Spirometer        |      1 |
+| Laptop            |      1 |
+| Laptop (Speziell) |      1 |
 
 ## Blutdruck und Puls
 
@@ -41,17 +42,23 @@ Gesamt: **1140s** = **19 Minuten**
 | ------------------ | -----: |
 | Blutdruckmessgerät |      1 |
 
-## Reaktion und Konzentration
+## Reaktion
 
-| Material                | Anzahl |
-| ----------------------- | -----: |
-| Laptop (mit Internet)   |      2 |
-| Mehrfachsteckdose (+3x) |      1 |
-| Kopfhörer               |      2 |
-| Kopfhörer (backup)      |      1 |
+| Material              | Anzahl |
+| --------------------- | -----: |
+| Laptop (mit Internet) |      1 |
+
+## Konzentration
+
+| Material              | Anzahl |
+| --------------------- | -----: |
+| Laptop (mit Internet) |      3 |
+| Mehrfachsteckdose     |      1 |
+| Kopfhörer             |      3 |
 
 ## Sonstiges
 
 | Material        | Anzahl |
 | --------------- | -----: |
 | Laptop (backup) |      1 |
+| Kopfhörer       |      1 |

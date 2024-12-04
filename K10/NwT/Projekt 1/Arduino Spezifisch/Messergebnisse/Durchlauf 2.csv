@@ -1,0 +1,14 @@
+Name;Durchlauf 1;Durchlauf 2;ADHS?;Gesamtwert mit Gewichtung
+Xenia;71;79;Nicht getestet;=(B2*B$14+C2*C$14)
+Alex;94;92;Nicht getestet;=(B3*B$14+C3*C$14)
+Aleksandra;79;84;Nicht getestet;=(B4*B$14+C4*C$14)
+Mike;78;50;Verdacht;=(B5*B$14+C5*C$14)
+Erik;87;79;Nicht getestet;=(B6*B$14+C6*C$14)
+;;;;
+Leon;84;86;Nicht getestet;=(B11*B$14+C8*C$14)
+Ann-Kathrin;95;97;Nicht getestet;=(B9*B$14+C9*C$14)
+Johannes;-1;-1;Nicht getestet;=(B10*B$14+C10*C$14)
+Kimi;66;79;Nicht getestet;=(B11*B$14+B8*C$14)
+Magdalena;-1;-1;Nicht getestet;=(B12*B$14+C12*C$14)
+;;;;
+Gewichtung;=1/3;=2/3;;

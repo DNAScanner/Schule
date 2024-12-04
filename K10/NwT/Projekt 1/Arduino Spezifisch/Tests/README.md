@@ -16,8 +16,6 @@
 - **Anwendungsbereich**: Konzentrationsfähigkeit
 - **Kurzbeschreibung**: Der Stroop-Test ist ein kognitiver Leistungstest, der die Fähigkeit zur Konzentration und Aufmerksamkeit misst. Der Test besteht aus zwei Teilen. Im ersten Teil muss der Proband die Farbe von Farbworten benennen. Im zweiten Teil muss der Proband die Farbe von Farbflächen benennen. Die Farbflächen sind so angeordnet, dass sie die Farbwortbedeutung ergeben. Die Zeit, die der Proband für die Bearbeitung des Tests benötigt, wird gemessen. Die Auswertung erfolgt anhand der Zeit, die der Proband für die Bearbeitung des Tests benötigt.
 
-## 
-
 # Quellen
 
 - https://de.wikipedia.org/wiki/Test_d2
