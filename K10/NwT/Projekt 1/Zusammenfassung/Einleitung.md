@@ -1,3 +1,0 @@
-# Einleitung zum Projekt
-
-In unserem Projekt im Rahmen des Schulfaches NwT werden Auswirkung auf einzelne Vitalwerte, in unserem Fall wird der Blutdruck, der Puls, die Atemfrequenz, die Konzentrationfähigkeit und die Reaktionszeit erfasst. Diese Werte werden 2 mal erfasst; ein mal wenn die Personen Nahrung zu sich genommen haben, ein mal wenn sie nüchtern sind. Die Werte werden dann miteinander verglichen und ausgewertet, wodurch wir den Einfluss der Nahrung auf die Vitalwerte herausfinden können.
