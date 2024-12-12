@@ -12,7 +12,8 @@ Im Bereich "Konzentration" war unsere Erwartung, dass die Konzentrationsfähigke
 
 # 6. Folgerung
 
-<!-- Meine Schlussfolgerung als Beauftragter des Bereiches "Konzentration" ist, dass die Konzentrationsfähigkeit im nüchternen Zustand deutlich schlechter ist als im satten Zustand. Dies ist unter anderem darauf rückzuführen, dass der Blutzuckerspiegel durch die Nahrungsaufnahme steigt, was wiederum die Konzentrationsfähigkeit steigern kann. Jedoch ist zu beachten, dass bei Schwankungen des Blutzuckerspiegels die Konzentration auch stark beeinträchtigt sein kann. Ein weiterer ausschlaggebender Fakt ist, dass durch den Mangel and Nahrung der Körper möglicherweise Noradrenalin ausgeschüttet, weil der Körper in einen "Überlebensmodus" wechselt. -->
+Meine Schlussfolgerung als Beauftragter des Bereiches "Konzentration" ist, dass die Konzentrationsfähigkeit im nüchternen Zustand deutlich schlechter ist als im satten Zustand. Dies ist unter anderem darauf rückzuführen, dass der Blutzuckerspiegel durch die Nahrungsaufnahme steigt, was wiederum die Konzentrationsfähigkeit steigern kann. Jedoch ist zu beachten, dass bei Schwankungen des Blutzuckerspiegels die Konzentration auch stark beeinträchtigt sein kann. Ein weiterer ausschlaggebender Fakt ist, dass durch den Mangel and Nahrung der Körper möglicherweise Noradrenalin ausgeschüttet, weil der Körper in einen "Überlebensmodus" wechselt.
+
 Bei allen Testpersonen wird schnell sichtbar, dass sie im hungernden Zustand schlechtere Werte in ihrem d2-Test erzielten als im gesättigten Zustand.
 
 # 7. Diskussion
