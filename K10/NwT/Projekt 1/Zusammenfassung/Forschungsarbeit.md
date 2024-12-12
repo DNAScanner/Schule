@@ -8,7 +8,7 @@ Unter "Konzentration" versteht man die Fähigkeit, dass eine Person ihre Aufmerk
 
 # 3. Erwartung
 
-Im Bereich "Konzentration" war unsere Erwartung, dass die Konzentrationsfähigkeit deutlich besser ist, wenn die Testpersonen gegessen haben. Wir haben diese Erwartung, da die Nahrungsaufnahme den Blutzuckerspiegel erhöht, was wiederum die Konzentrationsfähigkeit steigern kann. Diese Erwartung hat sich aufgrund unserer Ergebnisse bestätigt.
+Im Bereich "Konzentration" war unsere Erwartung, dass die Konzentrationsfähigkeit deutlich besser ist, wenn die Testpersonen gegessen haben. Ich habe diese Erwartung, da die Nahrungsaufnahme den Blutzuckerspiegel erhöht, was wiederum die Konzentrationsfähigkeit steigern kann. Diese Erwartung hat sich aufgrund unserer Ergebnisse bestätigt.
 
 # 6. Folgerung
 
