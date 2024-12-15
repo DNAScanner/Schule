@@ -1,9 +1,13 @@
 ## Formeln
 
 - $ y(t) =-\frac{1}{2} \cdot g \cdot t^2 + y_0 $
-- $ v\_{y1} = -g \cdot t$
+- $ v_{y1} = -g \cdot t$
 
 ### Aufgabe a
+
+Aufgabenstellung:
+
+- Berechne die Höhe $ y_1 $ des Körpers zum Zeitpunkt $ t_1 = 1s $
 
 Gegeben:
 
@@ -23,6 +27,10 @@ Rechnung:
 
 ### Aufgabe b
 
+Aufgabenstellung:
+
+- Berechne den Zeitpunkt $ t_2 $ zu dem sich der Körper in Höhe $ y_1 = 10m $ befindet
+
 Gegeben:
 
 - $ y_0 = 20m $
@@ -41,6 +49,10 @@ Rechnung:
 - $ t = \sqrt{2s} $
 
 ### Aufgabe c
+
+Aufgabenstellung:
+
+- Berechne die Fallzeit $ t_F $ des Körpers, d.h. die Zeit vom Loslassen des Körpers bis zu seinem Auftreffen auf dem Boden. Leite hierzu zuerst einen allgemeinen Term her
 
 Gegeben:
 
@@ -63,6 +75,10 @@ Rechnung:
 
 ### Aufgabe d
 
+Aufgabenstellung:
+
+- Berechne die Geschwindigkeit $ v_{y1} $ des Körpers zum Zeitpunkt $ t_1 = 1s $
+
 Gegeben:
 
 - $ t_1 = 1s $
@@ -70,19 +86,23 @@ Gegeben:
 
 Gesucht:
 
-- $ v\_{y1} $
+- $ v_{y1} $
 
 Rechnung:
 
-- $ v\_{y1} = -g \cdot t_1 $
-- $ v\_{y1} = -10\frac{m}{s} \cdot 1s $
-- $ v\_{y1} = -10\frac{m}{s} $
+- $ v_{y1} = -g \cdot t_1 $
+- $ v_{y1} = -10\frac{m}{s} \cdot 1s $
+- $ v_{y1} = -10\frac{m}{s} $
 
 ### Aufgabe e
 
+Aufgabenstellung:
+
+- Berechne den Zeitpunkt $ t*1 $ zu dem der Körper eine Geschwindigkeit von $ v*{y3} = -15\frac{m}{s} $ besitzt
+
 Gegeben:
 
-- $ v\_{y3} = -15\frac{m}{s} $
+- $ v_{y3} = -15\frac{m}{s} $
 - $ g = 10\frac{m}{s} $
 
 Gesucht:
@@ -91,11 +111,15 @@ Gesucht:
 
 Rechnung:
 
-- $ v\_{y3} = -g \cdot t_1 $
+- $ v_{y3} = -g \cdot t_1 $
 - $ -15\frac{m}{s} = -10\frac{m}{s} \cdot t_1 $
 - $ t_1 = 1.5s $
 
 ### Aufgabe f
+
+Aufgabenstellung:
+
+- Berechne die Geschwindigkeit $ v_{yF} $ des Körpers beim Aufprall auf den Boden
 
 Gegeben:
 
@@ -104,7 +128,7 @@ Gegeben:
 
 Gesucht:
 
-- $ v\_{yF} $
+- $ v_{yF} $
 
 Rechnung:
 
@@ -116,6 +140,6 @@ Rechnung:
 
 ---
 
-- $ v\_{yF} = -g \cdot t $
-- $ v\_{yF} = -10\frac{m}{s} \cdot 2s $
-- $ v\_{yF} = -20\frac{m}{s} $
+- $ v_{yF} = -g \cdot t $
+- $ v_{yF} = -10\frac{m}{s} \cdot 2s $
+- $ v_{yF} = -20\frac{m}{s} $

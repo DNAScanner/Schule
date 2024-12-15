@@ -1,4 +1,4 @@
-Ich habe ein Bezugssystem. In diesem Bezugssystem befinden sich mehrere Objekte. Unteranderem ein Baum, ein Jogger, ein Auto, ein Fahrradfahrer und ein Hund. Bestimme die relativen geschwindigkeiten ($ V\_{x} $) der Objekte zueinander.
+Ich habe ein Bezugssystem. In diesem Bezugssystem befinden sich mehrere Objekte. Unteranderem ein Baum, ein Jogger, ein Auto, ein Fahrradfahrer und ein Hund. Bestimme die relativen geschwindigkeiten ($ V_{x} $) der Objekte zueinander.
 
 - $ V_B $ = Relativgeschwindigkeit des Baums
 - $ V_J $ = Relativgeschwindigkeit des Joggers
