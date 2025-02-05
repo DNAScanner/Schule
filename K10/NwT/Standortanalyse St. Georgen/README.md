@@ -31,3 +31,12 @@ A["Gutachten des Umweltzustands um seine Entwicklung bei Durchführung und Nicht
 - Rechliche Vorgaben zu Landschaftsschutz
 - Rechtliche Vorgaben zu Boden- und Wasserressourcen
 - Weitere rechtliche Rahmenbedingungen zur Umwelt
+- Energiewirtschaftsrecht
+- Voragaben zur Einspeisung ins Stromnetz, Förderprogramme und Vergütungsregelungen
+- Kommunalrecht und Bürgerbeteiligung
+  - Einbeziehung lokaler Interessen und Akzeptanz der Bevölkerung
+
+# 5. Auffälligkeiten zur Regelung
+
+- Äußerst ausführliche Analyse
+- Sehr viele Rahmenbedingungen
