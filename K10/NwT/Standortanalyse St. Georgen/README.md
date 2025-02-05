@@ -26,4 +26,8 @@ A["Gutachten des Umweltzustands um seine Entwicklung bei Durchführung und Nicht
 
 - EU-Richtlinien zu Naturschutz
 - Planerische Festlegungen zu Siedlungs- und Infrastrukturentwicklung
-- Deutsches Artenschutzgesetz
+- Deutsches Artenschutzrecht
+- Kultur- und sachgutrechtliche Vorgaben
+- Rechliche Vorgaben zu Landschaftsschutz
+- Rechtliche Vorgaben zu Boden- und Wasserressourcen
+- Weitere rechtliche Rahmenbedingungen zur Umwelt
