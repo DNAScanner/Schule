@@ -1,3 +1,23 @@
+# 1.
+
+Zu berücksichtigende Faktoren für WKA:
+1.Standortauswahl
+- Windverhältnisse: Durchschnittliche Windgeschwindigkeit, Windrichtung bzw. Turbulenzen
+- Topografie: Höhenlage, Hindernisse wie Berge oder Siedlungen
+- Zugang und Infrastruktur: Transportwege für Komponenten der WKA und auch Netzanschlussmöglichkeiten
+2. Technische Faktoren
+- Anlagentyp: Onshore oder Offshore WKA, Rotordurchmesser
+- Leistungsklasse: Abhängig vom Energiebedarf und Windpotenzial
+- Netzintegration: Einspeisung und Netzstabilität
+3. Umweltaspekte
+- Lärmemissionen: Einhaltung von Grenzwerten für naheliegende Wohngebiete
+- Schattenwurf: Auswirkungen des Rotors auf Anwohner und Tiere
+- Naturschutz: Schutz vor fliegenden Tieren
+4. Wirtschaftlichkeit
+- Investitions- und Betriebskosten: Anschaffung, Wartung
+- Förderungen: Einspeisevergütungen
+- Wirtschaftliche Rentabilität: Amortisationstest
+
 # 3. Schematische Darstellung der Suche nach geeigneten Gebieten
 
 ```mermaid
