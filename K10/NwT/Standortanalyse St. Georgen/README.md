@@ -1,6 +1,6 @@
 # 1.
 
-Zu berücksichtigende Faktoren für WKA:
+EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEZu berücksichtigende Faktoren für WKA:
 1.Standortauswahl
 - Windverhältnisse: Durchschnittliche Windgeschwindigkeit, Windrichtung bzw. Turbulenzen
 - Topografie: Höhenlage, Hindernisse wie Berge oder Siedlungen
